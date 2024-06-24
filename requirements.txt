@@ -6,3 +6,4 @@ langchain_chroma==0.1.1
 langchain_text_splitters==0.0.2
 langchain_core==0.1.52
 langchain==0.1.20
+pysqlite3-binary
