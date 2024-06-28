@@ -9,3 +9,4 @@ langchain==0.1.20
 pyarrow==16.1.0
 bson==0.5.10
 scikit-learn==1.5.0
+pypdf==4.2.0
